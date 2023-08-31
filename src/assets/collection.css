@@ -1,0 +1,41 @@
+.collections {
+    background-color: #f4f4f4; 
+    padding: 50px 0; 
+    text-align: center;
+}
+
+.collections-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #333; 
+    margin-bottom: 20px;
+}
+
+.collection-item {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+.collection-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #333; 
+    margin-top: 10px;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #555; 
+    margin-top: 10px;
+}
